@@ -41,3 +41,18 @@
 - Don't use 'presentational names' for _class_ or _id_ names. Use names that say 'what something is', not where it is on your page or what it looks like.
 
 ## CSS
+
+- Because I always forgot:
+
+```html
+box-styling: content-box // never use
+
+* {
+box-styling: border-box // yass!
+}
+```
+
+- Hahaha. 'FlexBox is kinda hard.' (2014)
+- Checkout **normalize.css**
+- `clear fix` Look up later. If maintaining old code.
+- `overflow: hidden` to consider if tackling the great collapse.
