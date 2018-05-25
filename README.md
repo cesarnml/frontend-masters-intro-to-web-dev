@@ -1,10 +1,10 @@
-# Table of Contents
+# Frontend Masters - Introduction to Web Development
 
 <!-- TOC -->
 
-- [Table of Contents](#table-of-contents)
-  - [Frontend Masters - Introduction to Web Development](#frontend-masters---introduction-to-web-development)
+- [Frontend Masters - Introduction to Web Development](#frontend-masters---introduction-to-web-development)
+  - [HTML](#html)
 
 <!-- /TOC -->
 
-## Frontend Masters - Introduction to Web Development
+## HTML
