@@ -7,14 +7,16 @@
   - [Codepen Exercise Collection](#codepen-exercise-collection)
   - [HTML](#html)
   - [CSS](#css)
+    - [JavaScript](#javascript)
+    - [jQuery](#jquery)
 
 <!-- /TOC -->
 
 ## Progress
 
 - [X] *HTML* [2018-05-25]
-- [ ] CSS
-- [ ] JavaScript
+- [X] *CSS* [2018-05-25]
+- [X] *JavaScript* [2018-05-26]
 - [ ] JQuery
 - [ ] AJAX
 - [ ] Command Line
@@ -56,3 +58,34 @@ box-styling: border-box // yass!
 - Checkout **normalize.css**
 - `clear fix` Look up later. If maintaining old code.
 - `overflow: hidden` to consider if tackling the great collapse.
+- Neat hack near the end of the video about vertically-center text above an image. All the hacks seem out of date tho ...
+
+### JavaScript
+
+- Very basic introduction to JS. I didn't learn anything worth noting. It was a bit annoying when that the instructor kept refering to arrays as 'lists'.
+- The instructors butchered the _context_ of _this_. Here is the code they were trying to accomplish.
+
+```javascript
+const car = {
+  type: 'Corolla',
+  sayType: function() {
+    return this.type
+  }
+}
+
+const luxCar = {
+  type: 'Lexus'
+}
+
+let myCar = car.sayType
+
+myCar = myCar.bind(luxCar)
+
+console.log(myCar()) //  Lexus
+
+console.log(car.sayType()) // Corolla
+```
+
+### jQuery
+
+- 
