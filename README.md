@@ -1,14 +1,15 @@
-# Frontend Masters - Introduction to Web Development
+# Frontend Masters - Introduction to Web Development (2014 - bit out-of-date)
 
 <!-- TOC -->
 
-- [Frontend Masters - Introduction to Web Development](#frontend-masters---introduction-to-web-development)
+- [Frontend Masters - Introduction to Web Development (2014 - bit out-of-date)](#frontend-masters---introduction-to-web-development-2014---bit-out-of-date)
   - [Progress](#progress)
   - [Codepen Exercise Collection](#codepen-exercise-collection)
   - [HTML](#html)
   - [CSS](#css)
     - [JavaScript](#javascript)
     - [jQuery](#jquery)
+    - [AJAX](#ajax)
 
 <!-- /TOC -->
 
@@ -17,7 +18,7 @@
 - [X] *HTML* [2018-05-25]
 - [X] *CSS* [2018-05-25]
 - [X] *JavaScript* [2018-05-26]
-- [ ] JQuery
+- [X] *JQuery* [2018-05-26]
 - [ ] AJAX
 - [ ] Command Line
 - [ ] Node.js
@@ -88,4 +89,7 @@ console.log(car.sayType()) // Corolla
 
 ### jQuery
 
-- 
+- `$('.class or #id').method()` jQuery in a nutshell
+- Again, the course is very basic. There wasn't much of note.
+
+### AJAX
