@@ -1,8 +1,8 @@
-# Frontend Masters - Introduction to Web Development (2014 - bit out-of-date)
+# Frontend Masters: Introduction to Web Dev (2014 - yikes)
 
 <!-- TOC -->
 
-- [Frontend Masters - Introduction to Web Development (2014 - bit out-of-date)](#frontend-masters---introduction-to-web-development-2014---bit-out-of-date)
+- [Frontend Masters: Introduction to Web Dev (2014 - yikes)](#frontend-masters-introduction-to-web-dev-2014---yikes)
   - [Progress](#progress)
   - [Codepen Exercise Collection](#codepen-exercise-collection)
   - [HTML](#html)
@@ -127,4 +127,10 @@ $('.btn').click(function() {
 
 - Basic tutorial on Node.js and Express framework. Nothing of note.
 - The exercises were easy. I guess Lambda School taught me well.
+- Static Assets. Files that are not changed by the server. Assets served to the client as saved on server. Finally something new. We didn't cover this topic at Lambda School because we focused single-page apps.
+
+```javascript
+app.use(express.static(`${__dirname}/public`))
+```
+
 - [MyCodePen Exercise Collection](https://codepen.io/collection/DykjPp/)
