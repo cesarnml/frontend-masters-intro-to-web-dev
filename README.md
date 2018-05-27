@@ -11,6 +11,7 @@
     - [jQuery](#jquery)
     - [AJAX](#ajax)
     - [Command Line (More Like Basic Git/GitHub)](#command-line-more-like-basic-gitgithub)
+    - [Node.js](#nodejs)
 
 <!-- /TOC -->
 
@@ -22,7 +23,7 @@
 - [X] *JQuery* [2018-05-26]
 - [X] *AJAX* [2018-05-26]
 - [X] *Command Line* [2018-05-27]
-- [ ] Node.js
+- [X] *Node.js* [2018-05-27]
 
 ## Codepen Exercise Collection
 
@@ -121,3 +122,7 @@ $('.btn').click(function() {
 
 - Nothing worth noting. Basic Git/GitHub workflow
 - I regret spending 10 hours on this course. It was far below the level of Lambda School's curriculum.
+
+### Node.js
+
+- Out-of-date Node tutorial; nothing of note.
