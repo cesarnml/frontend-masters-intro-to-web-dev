@@ -10,7 +10,7 @@
     - [JavaScript](#javascript)
     - [jQuery](#jquery)
     - [AJAX](#ajax)
-    - [Command Line](#command-line)
+    - [Command Line (More Like Basic Git/GitHub)](#command-line-more-like-basic-gitgithub)
 
 <!-- /TOC -->
 
@@ -21,7 +21,7 @@
 - [X] *JavaScript* [2018-05-26]
 - [X] *JQuery* [2018-05-26]
 - [X] *AJAX* [2018-05-26]
-- [ ] Command Line
+- [X] *Command Line* [2018-05-27]
 - [ ] Node.js
 
 ## Codepen Exercise Collection
@@ -117,4 +117,7 @@ $('.btn').click(function() {
 
 - Basic intro. Not much of note.
 
-### Command Line
+### Command Line (More Like Basic Git/GitHub)
+
+- Nothing worth noting. Basic Git/GitHub workflow
+- I regret spending 10 hours on this course. It was far below the level of Lambda School's curriculum.
