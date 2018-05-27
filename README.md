@@ -7,10 +7,10 @@
   - [Codepen Exercise Collection](#codepen-exercise-collection)
   - [HTML](#html)
   - [CSS](#css)
-    - [JavaScript](#javascript)
-    - [jQuery](#jquery)
-    - [AJAX](#ajax)
-    - [Command Line (More Like Basic Git/GitHub)](#command-line-more-like-basic-gitgithub)
+  - [JavaScript](#javascript)
+  - [jQuery](#jquery)
+  - [AJAX](#ajax)
+  - [Command Line (More Like Basic Git/GitHub)](#command-line-more-like-basic-gitgithub)
     - [Node.js](#nodejs)
 
 <!-- /TOC -->
@@ -63,7 +63,7 @@ box-styling: border-box // yass!
 - `overflow: hidden` to consider if tackling the great collapse.
 - Neat hack near the end of the video about vertically-center text above an image. All the hacks seem out of date tho ...
 
-### JavaScript
+## JavaScript
 
 - Very basic introduction to JS. I didn't learn anything worth noting. It was a bit annoying when that the instructor kept refering to arrays as 'lists'.
 - The instructors butchered the _context_ of _this_. Here is the code they were trying to accomplish.
@@ -89,12 +89,12 @@ console.log(myCar()) //  Lexus
 console.log(car.sayType()) // Corolla
 ```
 
-### jQuery
+## jQuery
 
 - `$('.class or #id').method()` jQuery in a nutshell
 - Again, the course is very basic. There wasn't much of note.
 
-### AJAX
+## AJAX
 
 - Asynchronous JavaScript and XML
 - Code Sample:
@@ -118,7 +118,7 @@ $('.btn').click(function() {
 
 - Basic intro. Not much of note.
 
-### Command Line (More Like Basic Git/GitHub)
+## Command Line (More Like Basic Git/GitHub)
 
 - Nothing worth noting. Basic Git/GitHub workflow
 - I regret spending 10 hours on this course. It was far below the level of Lambda School's curriculum.
