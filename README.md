@@ -27,7 +27,7 @@
 
 ## Codepen Exercise Collection
 
-- [CodePen Exercise Collection](https://codepen.io/collection/DykjPp/)
+- [MyCodePen Exercise Collection](https://codepen.io/collection/DykjPp/)
 
 ## HTML
 
@@ -125,4 +125,6 @@ $('.btn').click(function() {
 
 ### Node.js
 
-- Out-of-date Node tutorial; nothing of note.
+- Basic tutorial on Node.js and Express framework. Nothing of note.
+- The exercises were easy. I guess Lambda School taught me well.
+- [MyCodePen Exercise Collection](https://codepen.io/collection/DykjPp/)
