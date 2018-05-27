@@ -10,6 +10,7 @@
     - [JavaScript](#javascript)
     - [jQuery](#jquery)
     - [AJAX](#ajax)
+    - [Command Line](#command-line)
 
 <!-- /TOC -->
 
@@ -19,7 +20,7 @@
 - [X] *CSS* [2018-05-25]
 - [X] *JavaScript* [2018-05-26]
 - [X] *JQuery* [2018-05-26]
-- [ ] AJAX
+- [X] *AJAX* [2018-05-26]
 - [ ] Command Line
 - [ ] Node.js
 
@@ -93,3 +94,27 @@ console.log(car.sayType()) // Corolla
 - Again, the course is very basic. There wasn't much of note.
 
 ### AJAX
+
+- Asynchronous JavaScript and XML
+- Code Sample:
+
+```javascript
+$('.btn').click(function() {
+  $('.text').text('Loading...')
+  $.ajax({
+    type: 'GET',
+    url: 'https://www.reddit.com/r/aww/search.json?q=puppy&restrict_sr=true',
+    success: function(data) {
+      $('.text').text('')
+      const dogArr = data.data.children
+      for (let i = 0; i < dogArr.length; i++) {
+        $('.text').append(`<img src=${dogArr[i].data.thumbnail}>`)
+      }
+    }
+  })
+})
+```
+
+- Basic intro. Not much of note.
+
+### Command Line
